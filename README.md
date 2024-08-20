@@ -2,7 +2,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
     <h1 align="center">Hi 👋, I'm Md.Najmul Hasan Jishan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img src="https://i.ibb.co/xLBs2ss/profile-pic-1.png" alt="Description of the image" width="500" height="500">
+<img src="https://i.ibb.co/xLBs2ss/profile-pic-1.png" alt="Description of the image" width="300" height="300">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j-sense&label=Profile%20views&color=0e75b6&style=flat" alt="j-sense" /> </p>
