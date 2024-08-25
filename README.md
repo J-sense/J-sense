@@ -4,17 +4,16 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Md. Najmul Hasan Jishan from Bangladesh.<br><br>- 🔭 I’m working as a Junior Frontend Developer.<br>- 📚 I'm currently learning Next.js and enhancing my skills in web development.<br>- ⚡ In my free time, I love exploring new technologies and working on personal projects.</p>
 
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
