@@ -82,7 +82,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/J-sense/J-sense/output/snake.svg" alt="Snake animation" />
 
 ###
 
