@@ -1,10 +1,4 @@
-<div align="center">
-  <img height="250" src="https://i.ibb.co/xLBs2ss/profile-pic-1.png" width="250" />
-</div>
 
-###
-
-<h1 align="center">Hey tre 👋</h1>
 
 ###
 
