@@ -79,8 +79,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/J-sense/count.svg?"  />
-</div>
+
 
 ###
