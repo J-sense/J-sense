@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm Md. Najmul Hasan Jishan from Bangladesh.<br><br>- 🔭 <br>- 📚 I'm currently learning backend technologies and enhancing my skills in web development.<br>- ⚡ In my free time, I love exploring new technologies and working on personal projects.</p>
+<p align="left">I'm Md. Najmul Hasan Jishan from Bangladesh.<br><br>- 📚 I'm currently learning backend technologies and enhancing my skills in web development.<br>- ⚡ In my free time, I love exploring new technologies and working on personal projects.</p>
 
 
 <h3 align="left">🛠 Language and tools</h3>
