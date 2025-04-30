@@ -1,3 +1,10 @@
+<!-- Banner Image -->
+<div align="center">
+  <img src="https://i.ibb.co.com/JW9ZRphY/Md-Najmul-Hasan.png" alt="Banner" style="width:100%; border-radius: 10px;" />
+</div>
+
+<br/>
+
 <div align="center" style="text-align: center; background: linear-gradient(to right, #0f2027, #203a43, #2c5364); padding: 25px; border-radius: 15px; color: white;">
 
 # 👋 Hello, I'm **Md. Najmul Hasan Jishan**  
@@ -40,10 +47,14 @@
 
 ## 🌐 Connect with Me
 
-<div align="center">
+<div align="start">
   
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/najmul-hasan-222b43273/)
 &nbsp;&nbsp;
 [![Facebook](https://skillicons.dev/icons?i=facebook)](https://web.facebook.com/mdnajmulhasan.jishan/)
+&nbsp;&nbsp;
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="40" height="40" alt="Website" />
+</a>
 
 </div>
