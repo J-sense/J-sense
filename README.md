@@ -7,7 +7,7 @@
 
 <div align="center" style="text-align: center; background: linear-gradient(to right, #0f2027, #203a43, #2c5364); padding: 25px; border-radius: 15px; color: white;">
 
-# 👋 Hello, I'm **Md. Najmul Hasan Jishan**  
+# 👋 Hello, I'm **Md Najmul Hassan Jishan**  
 ### 🌱 Junior MERN STACK | Frontend Developer | 🇧🇩 Bangladesh
 
 </div>
