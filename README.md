@@ -71,12 +71,11 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-sense&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=30,0f2027,203a43,2c5364&title_color=fff&text_color=fff&icon_color=79ff97)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-sense&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=30,1a1a2e,16213e,0f3460&title_color=e94560&text_color=ffffff&icon_color=e94560&ring_color=e94560)
 
-![Streak Stats](https://streak-stats.demolab.com?user=J-sense&theme=radical&hide_border=true&background=30,0f2020,203a49,2c5369)
+![Streak Stats](https://streak-stats.demolab.com?user=J-sense&theme=dark&hide_border=true&background=30,1a1a2e,16213e,0f3460&fire=e94560&currStreakLabel=ffffff&ring=e94560)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-sense&layout=compact&theme=radical&langs_count=8&hide_border=true&bg_color=30,0f2027,203a43,2c5364&title_color=fff&text_color=fff)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-sense&layout=compact&hide_border=true&bg_color=30,1a1a2e,16213e,0f3460&title_color=e94560&text_color=ffffff)
 </div>
 
 ---
