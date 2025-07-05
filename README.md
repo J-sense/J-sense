@@ -21,7 +21,7 @@
 ">
   
 # 👨‍💻 Md Najmul Hassan Jishan  
-### 🚀 MERN Stack Developer | Frontend Specialist | Digital Craftsman
+### 🚀 MERN Stack Developer | Frontend Specialist 
 
 </div>
 
