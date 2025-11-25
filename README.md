@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Banner with Parallax Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md%20Najmul%20Hassan%20Jishan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Crafting%20Digital%20Experiences%20•%20MERN%20Stack%20Architect&descSize=16&descAlignY=51" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md%20Najmul%20Hassan%20Jishan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Crafting%20Digital%20Experiences%20•%20MERN%20Stack%20&descSize=16&descAlignY=51" />
 
 </div>
 
