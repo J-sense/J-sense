@@ -59,11 +59,7 @@ const jishan = {
 
 <br/>
 
-### 🏆 2025 Goals
-- [ ] Contribute to 10+ open source projects
-- [ ] Master system design patterns
-- [ ] Build a viral side project
-- [ ] Mentor aspiring developers
+
 
 </td>
 </tr>
